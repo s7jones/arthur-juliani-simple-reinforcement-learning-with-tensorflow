@@ -1,0 +1,2 @@
+# Simple Reinforcement Learning with Tensorflow
+These are the scripts and things to play with from Arthur Juliani's [set of articles on Medium](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) about Reinforcement Learning.
